@@ -4,7 +4,7 @@ Traversal:
 3. Postorder
 4. Level order (Breadth first search)
 Functions that find the following:
-For every algorithm, root node is given as input along with any other input (if mentioned).
+For every algorithm, root node is given as input along with any other input.
 1. To find and return parent of given node?
 2. To find and return depth/level of given node?
 3. To find and return height of tree?
